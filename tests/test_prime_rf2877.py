@@ -1,5 +1,5 @@
 from prime_rf2877 import prime_rf2877
-from prime import is_prime
+from prime_rf2877.prime_rf2877 import is_prime
 
 def test_is_prime():
     prime_numbers = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37]
